@@ -3,6 +3,12 @@
     "description": "PHP Client for the CoinMarketCap API",
     "type": "library",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Pascal Woerde",
+            "homepage": "https://github.com/pascalwoerde"
+        }
+    ],
     "require": {
         "php": "^7.0.0",
         "psr/http-message": "^1.0",
